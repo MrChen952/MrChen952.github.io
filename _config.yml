@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Hector Chen"
+title                    : "<Hector Chen>"
 title_separator          : "-"
-name                     : &name "Hector Chen"
+name                     : &name "<Hector Chen>"
 description              : &description "personal description"
 url                      : https://MrChen952.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
